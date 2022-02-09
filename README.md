@@ -1,16 +1,12 @@
-### Hi there 👋
+## Hey! 👋
+I'm Shahriyar, a 27 years old developer from Iran.
 
-<!--
-**ShahriyarB/ShahriyarB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- 👨‍💻 C/C++, C#, ASM
+- ⚙️ .NET Core, React Native
+- 💽 MySQL, PostgreSQL, Mongo
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [shahriyarbazaei.ir](https://shahriyarbazaei.ir)
+- [@ShahriyarBa](https://linkedin.com/in/ShahriyarBa) on LinkedIn
+- [shahriyar.ba@icloud.com](./) Email Address
